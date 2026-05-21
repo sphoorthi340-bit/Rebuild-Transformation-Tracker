@@ -2,7 +2,7 @@
 
 > A component-driven Flutter application engineering a unified, low-latency ecosystem for synchronizing physical metrics and mental well-being in real-time.
 
-![App UI Architecture](./assets/app-preview.png)
+![App UI Architecture](./assets/images/2.Dashboard.jfif)
 
 ## Systems Architecture & Data Flow
 
@@ -14,17 +14,17 @@ The UI rendering engine is explicitly optimized utilizing a custom "FIRE" Dark T
 
 ### Visual Architecture Documentation
 * **Authentication Module – Flutter & Firebase:** User authentication interface designed in Flutter and integrated with Firebase Authentication for secure login and account management.
-  ![Authentication Module – Flutter & Firebase](./docs/assets/1_auth.png)
+  ![Authentication Module – Flutter & Firebase](./assets/images/1.auth.jfif)
 * **Core Dashboard – Progress Analytics System:** Main dashboard displaying workout progress, streak tracking, level system, and real-time performance metrics implemented using Flutter and Cloud Firestore.
-  ![Core Dashboard – Progress Analytics System](./docs/assets/2_dashboard.png)
+  ![Core Dashboard – Progress Analytics System](./assets/images/2.Dashboard.jfif)
 * **Nutrition & Hydration Tracking Module:** Module for tracking daily calorie intake, protein consumption, and water levels with dynamic progress indicators and user-defined targets.
-  ![Nutrition & Hydration Tracking Module](./docs/assets/3_nutrition.png)
+  ![Nutrition & Hydration Tracking Module](./assets/images/3.Nutrition.jfif)
 * **Mental Health & Reflection Tracking Interface:** Daily reflection module with mood and energy sliders, journaling features, and structured data storage using Firebase Firestore.
-  ![Mental Health & Reflection Tracking Interface](./docs/assets/4_journal.png)
+  ![Mental Health & Reflection Tracking Interface](./assets/images/4.Journal.jfif)
 * **Workout Planning & Progress System:** Workout scheduling interface organized by weekly plans, designed to track exercise routines and progression over time.
-  ![Workout Planning & Progress System](./docs/assets/5_workouts.png)
+  ![Workout Planning & Progress System](./assets/images/5,Workouts.jfif)
 * **Application Navigation & Feature Architecture:** Side navigation system showcasing modular app architecture with features such as notes, scheduling, mobility tracking, and settings management.
-  ![Application Navigation & Feature Architecture](./docs/assets/6_navigation.png)
+  ![Application Navigation & Feature Architecture](./assets/images/6.Navigation.jfif)
 
 ## Tech Stack & Dependencies
 
